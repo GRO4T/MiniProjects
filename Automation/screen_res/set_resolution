@@ -1,0 +1,41 @@
+#!/bin/bash
+
+# Script for adding new resolutions in xrandr
+
+# Internet solution to this problem
+
+#RES="1920 1200 60" && \
+#DISP=$(xrandr | grep -e " connected [^(]" | sed -e "s/\([A-Z0-9]\+\) connected.*/\1/") && \
+#MODELINE=$(cvt $(echo $RES) | grep -e "Modeline [^(]" | sed -r 's/.*Modeline (.*)/\1/') && \
+#MODERES=$(echo $MODELINE | grep -o -P '(?<=").*(?=")') && \
+#xrandr --newmode $MODELINE && \
+#xrandr --addmode $DISP $MODERES
+
+# My solution
+
+#echo -e "Target: "
+#read target
+target="HDMI-1"
+echo -e "Resolution"
+read resolution
+
+#prepare modeline string
+#cvt $resolution 60 > modeline
+#MODELINE=$(grep "Modeline" modeline)
+MODELINE=$(cvt $(echo $resolution) | grep "Modeline")
+MODELINE=${MODELINE:8}
+echo -e $MODELINE
+
+MODERES="\""
+MODERES+=${resolution:0:4}
+MODERES+="x"
+MODERES+=${resolution:5:4}
+MODERES+="_60.00"
+MODERES+="\""
+
+echo $MODERES
+
+#run xrandr commands
+xrandr --newmode $(echo $MODELINE)
+xrandr --addmode $target $MODERES
+xrandr --output $target --mode $MODERES
