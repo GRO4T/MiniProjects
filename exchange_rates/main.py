@@ -4,11 +4,16 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.firefox.options import Options
 
 from time import sleep
 
 timeout = 0.25 #timeout in seconds
-driver = webdriver.Firefox() #global browser handler
+
+#initialise the browser
+options = Options()
+options.headless = True #run in headless mode (invisible)
+driver = webdriver.Firefox(options=options) #global browser handler
 
 def Google(phrase):
     driver.get("https://www.google.com/")
@@ -36,3 +41,5 @@ def SearchForExchangeRates(currencyA, currencyB = 'pln'):
 SearchForExchangeRates('usd')
 SearchForExchangeRates('euro')
 SearchForExchangeRates('gbp')
+
+driver.close()
