@@ -8,7 +8,7 @@ from selenium.webdriver.firefox.options import Options
 
 from time import sleep
 
-SEMESTER = 3
+SEMESTER = 5
 KODY_PRZEDMIOTOW = []
 
 #initialise the browser
@@ -99,6 +99,17 @@ def AddPrzedmiot(kod_przedmiotu):
     ok_button_list = driver.find_elements_by_xpath("//input[@value='OK']")
     ok_button_list[4].click()
 
+    #sprawdz czy zapytanie nie było dwuznaczne (np. są 2 podobne przedmioty do wyboru)
+    try:
+        sleep(1)
+        niejednoznacza = driver.find_element_by_xpath("//input[@value='Szukaj ponownie']")
+        print("Request ambiguous")
+        odd_rows = driver.find_elements_by_class_name("odd_row")
+        wybierz_kontynuuj = odd_rows[0].find_elements_by_tag_name("td")[-1]
+        wybierz_kontynuuj.find_element_by_tag_name("a").click()
+    except Exception as e:
+        print(e)
+        pass
     #wybierz realizację
     sleep(1)
     container = driver.find_element_by_class_name("wrtext")

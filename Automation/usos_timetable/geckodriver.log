@@ -4326,3 +4326,737 @@ Exiting due to channel error.
 Exiting due to channel error.
 [Child 22387, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
 Exiting due to channel error.
+1561589636792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OGffE5g8Jpqc"
+1561589637362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561589637363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561589637363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561589639403	Marionette	INFO	Listening on port 46843
+1561589639501	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24417): dconf-WARNING **: 00:54:01.254: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561573914935%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 24308, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 24308, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561590181624	Marionette	INFO	Stopped listening on port 46843
+1561626944823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x8UfA7CYiVfE"
+1561626945995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561626945996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561626945996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561626948332	Marionette	INFO	Listening on port 45765
+1561626948436	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2912): dconf-WARNING **: 11:15:50.542: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561593607939%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561627354906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.g5MTSoAWa71Z"
+1561627355457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561627355458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561627355458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561627357588	Marionette	INFO	Listening on port 43551
+1561627357616	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3437): dconf-WARNING **: 11:22:39.332: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1561627362355	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1561627427522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UuPUFrZkaN68"
+1561627427991	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561627427992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561627427992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561627430039	Marionette	INFO	Listening on port 42291
+1561627430136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561593607939%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561593607939%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: "stylesheets actor: fetch failed for https://usosweb.usos.pw.edu.pl/kontroler.php?_action=common/respacks/cssPack&module=akcje&hash=04cee4c8196e837f007a552edc273750, using system principal instead."
+1561627897218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.s09WDw0NY9Hw"
+1561627897772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561627897772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561627897772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561627899757	Marionette	INFO	Listening on port 36299
+1561627899849	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4086): dconf-WARNING **: 11:31:41.697: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561593607939%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 269: TypeError: global is null
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:837:24\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 269: TypeError: global is null
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 269: TypeError: global is null
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:837:24\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:837:24\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error writing response to: children"
+console.error: "Error while calling actor 'domwalker's method 'children'" "Permission denied to access property \"nodeType\""
+console.error: "acceptData@https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js:3:15169\nP@https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js:3:13859\n_data@https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js:3:15086\n"
+console.error: "Protocol error (unknownError): Permission denied to access property \"nodeType\""
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode496"
+console.warn: "Got a mutation for an unexpected actor: server1.conn0.child1/domnode494, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 286 getMutations/<
+console.warn: "Got a mutation for an unexpected actor: server1.conn0.child1/domnode494, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 286 getMutations/<
+console.warn: "Got a mutation for an unexpected actor: server1.conn0.child1/domnode494, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 286 getMutations/<
+console.warn: "Got a mutation for an unexpected actor: server1.conn0.child1/domnode494, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 286 getMutations/<
+console.warn: "Got a mutation for an unexpected actor: server1.conn0.child1/domnode494, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 286 getMutations/<
+console.warn: "Got a mutation for an unexpected actor: server1.conn0.child1/domnode493, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 286 getMutations/<
+console.warn: "Got a mutation for an unexpected actor: server1.conn0.child1/domnode493, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 286 getMutations/<
+console.warn: "Got a mutation for an unexpected actor: server1.conn0.child1/domnode493, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 286 getMutations/<
+console.warn: "Got a mutation for an unexpected actor: server1.conn0.child1/domnode493, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 286 getMutations/<
+console.warn: "Got a mutation for an unexpected actor: server1.conn0.child1/domnode493, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 286 getMutations/<
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode495"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode494"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode493"
+1561628005752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.84UxaV3gYJe2"
+1561628006249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561628006249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561628006249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561628008213	Marionette	INFO	Listening on port 42311
+1561628008280	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4426): dconf-WARNING **: 11:33:29.964: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4171, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Child 3516, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4086, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4062, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[Child 4402, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3700, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1561628023380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QFB1D9Mu5H62"
+1561628023840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561628023840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561628023840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561628025773	Marionette	INFO	Listening on port 42133
+1561628025874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561593607939%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561628117462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uafOuxJ09syL"
+1561628117957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561628117958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561628117958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561628119960	Marionette	INFO	Listening on port 42291
+1561628119987	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4929): dconf-WARNING **: 11:35:21.711: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561593607939%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561628191655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wKWWWkGBRHHt"
+1561628192156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561628192156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561628192156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561628194181	Marionette	INFO	Listening on port 34145
+1561628194263	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5195): dconf-WARNING **: 11:36:35.972: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1561628250028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JhpsOvFwTVxK"
+1561628250535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561628250535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561628250535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561628252565	Marionette	INFO	Listening on port 38205
+1561628252648	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5487): dconf-WARNING **: 11:37:35.786: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561593607939%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561593607939%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561628418084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7mX1FvxOdlVJ"
+1561628418583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561628418584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561628418584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561628420590	Marionette	INFO	Listening on port 35189
+1561628420692	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5813): dconf-WARNING **: 11:40:22.631: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561593607939%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561628462625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8jFW1hphK0Hd"
+1561628463107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561628463107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561628463108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561628465189	Marionette	INFO	Listening on port 36909
+1561628465232	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6049): dconf-WARNING **: 11:41:07.107: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1561628588077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IFxfojKrnOxP"
+1561628588596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561628588596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561628588596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561628590718	Marionette	INFO	Listening on port 43001
+1561628590788	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6388): dconf-WARNING **: 11:43:12.516: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561593607939%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561593607939%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561628754130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.a4rfmwdzCG8D"
+1561628754634	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561628754635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561628754635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561628756701	Marionette	INFO	Listening on port 42831
+1561628756768	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6697): dconf-WARNING **: 11:45:58.525: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561593607939%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561628896091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LdtvDz4ITqSd"
+1561628896588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561628896588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561628896588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561628898656	Marionette	INFO	Listening on port 44365
+1561628898723	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7041): dconf-WARNING **: 11:48:20.457: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1561628949807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pntyX4Ibd3U0"
+1561628950295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561628950296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561628950296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561628952310	Marionette	INFO	Listening on port 41941
+1561628952375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561593607939%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561593607939%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561629097162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PZu5q1rRKdMR"
+1561629097668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561629097668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561629097668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561629099678	Marionette	INFO	Listening on port 38831
+1561629099770	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7640): dconf-WARNING **: 11:51:41.556: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561593607939%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5896, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5813, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5789, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6472, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[Child 6364, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7119, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7041, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7717, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[Child 7608, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4905, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7382, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7301, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7277, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5569, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5487, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5463, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6127, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6049, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6025, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6776, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6697, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6672, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5269, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4734, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4664, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4640, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1561629189904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1qOrc1TNF8xL"
+1561629190370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561629190371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561629190371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561629192350	Marionette	INFO	Listening on port 38557
+1561629192412	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7992): dconf-WARNING **: 11:53:17.946: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1561629212189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.r5aida5tO8bw"
+1561629212682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561629212683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561629212683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561629214703	Marionette	INFO	Listening on port 46359
+1561629214797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561593607939%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561593607939%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561629271419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JyueLeU9WZBh"
+1561629271924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561629271925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561629271925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561629274010	Marionette	INFO	Listening on port 41483
+1561629274039	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8476): dconf-WARNING **: 11:54:35.798: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561593607939%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561629522791	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.n8GR0IvuqYuv"
+1561629523310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561629523311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561629523311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561629525374	Marionette	INFO	Listening on port 38903
+1561629525441	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8824): dconf-WARNING **: 11:58:47.243: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7992, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8900, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8824, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8800, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8228, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8555, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8476, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8451, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1561629539262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SHlePMrGMpUu"
+1561629539749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561629539749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561629539749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561629541779	Marionette	INFO	Listening on port 35045
+1561629541874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561593607939%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
