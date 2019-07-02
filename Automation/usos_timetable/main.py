@@ -8,7 +8,7 @@ from selenium.webdriver.firefox.options import Options
 
 from time import sleep
 
-SEMESTER = 5
+SEMESTER = 3
 KODY_PRZEDMIOTOW = []
 
 #initialise the browser
