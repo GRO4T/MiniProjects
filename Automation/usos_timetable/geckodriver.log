@@ -5122,3 +5122,152 @@ IPDL protocol error: Handler returned error code!
 [Parent 2751, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
 [Parent 2751, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
 1561716206683	Marionette	INFO	Stopped listening on port 44523
+1562177525282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZQxPZMxlISUy"
+1562177526638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562177526639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562177526639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562177528928	Marionette	INFO	Listening on port 46077
+1562177528998	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3152): dconf-WARNING **: 20:12:17.551: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1562177563603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.d2EP6rw8ZVlT"
+1562177564069	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562177564070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562177564070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562177566116	Marionette	INFO	Listening on port 32983
+1562177566213	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3408): dconf-WARNING **: 20:12:50.700: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1562177591818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.V4hjudkkEWXr"
+1562177592314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562177592315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562177592315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562177594295	Marionette	INFO	Listening on port 38845
+1562177594326	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3650): dconf-WARNING **: 20:13:18.734: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 3537, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 3537, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562177619590	Marionette	INFO	Stopped listening on port 38845
+1562764850382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9KC7D1KUHtif"
+1562764851205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562764851206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562764851206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562764853548	Marionette	INFO	Listening on port 44353
+1562764853599	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1562764879272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6RRdZfR6wrda"
+1562764879782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562764879782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562764879782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562764881695	Marionette	INFO	Listening on port 37283
+1562764881789	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2332): dconf-WARNING **: 15:21:22.973: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562719311956%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562719311956%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1562764956337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E5RjT3biWCUj"
+*** You are running in headless mode.
+1562764956791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562764956791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562764956791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562764958483	Marionette	INFO	Listening on port 36081
+1562764958631	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1925, Gecko_IOThread] WARNING: pipe error (91): Connection reset by peer: file /build/firefox-ubqoiK/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562764960581	Marionette	INFO	Stopped listening on port 44353
+
+(/usr/lib/firefox/firefox:2640): dconf-WARNING **: 15:22:40.804: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[Child 2617, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ubqoiK/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1563272042851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Jit4rYDa3Akm"
+*** You are running in headless mode.
+1563272043684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563272043685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1563272043685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563272043685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563272046050	Marionette	INFO	Listening on port 33199
+1563272046069	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5304): dconf-WARNING **: 12:14:06.982: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: http://www.elka.pw.edu.pl/design/wwwglowna/javascript/frames.js, line 201: unreachable code after return statement
+JavaScript error: http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019, line 84: TypeError: window.addEvent is not a function
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://usosweb.usos.pw.edu.pl/js/jquery-migrate-1.1.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

@@ -7,20 +7,21 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.firefox.options import Options
 
 from time import sleep
+import sys
 
 SEMESTER = 3
 KODY_PRZEDMIOTOW = []
 
 #initialise the browser
 options = Options()
-options.headless = False #run in headless mode (invisible)
+options.headless = True #run in headless mode (invisible)
 driver = webdriver.Firefox(options=options) #global browser handler
 
 def Login():
     USOS_URL = "https://cas.usos.pw.edu.pl/cas/login?service=https%3A%2F%2Fusosweb.usos.pw.edu.pl%2Fkontroler.php%3F_action%3Dlogowaniecas%2Findex&locale=pl"
     PLAN_URL = '\"http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019\"'
     LOGIN="99013100214"
-    PASSWORD = "grzyby40"
+    PASSWORD = sys.argv[1]
 
     #USOS
     driver.get(USOS_URL)
