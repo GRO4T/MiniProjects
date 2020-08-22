@@ -20,8 +20,8 @@ driver = webdriver.Firefox(options=options) #global browser handler
 def Login():
     USOS_URL = "https://cas.usos.pw.edu.pl/cas/login?service=https%3A%2F%2Fusosweb.usos.pw.edu.pl%2Fkontroler.php%3F_action%3Dlogowaniecas%2Findex&locale=pl"
     PLAN_URL = '\"http://www.elka.pw.edu.pl/Studia/Zalaczniki-i-formularze/Zalaczniki/Plany-modelowe-12/Informatyka-do-roku-2018-2019\"'
-    LOGIN="99013100214"
-    PASSWORD = sys.argv[1]
+    LOGIN=sys.argv[1]
+    PASSWORD = sys.argv[2]
 
     #USOS
     driver.get(USOS_URL)
