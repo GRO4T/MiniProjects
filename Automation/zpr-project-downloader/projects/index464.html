@@ -1,0 +1,204 @@
+<html ng-app="" lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>Student Projects Helper</title>
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    
+        <link href="/static/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/static/css/style.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+    
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+    <script src="/static/js/cookielaw.js"></script>
+<style></style></head>
+
+<body><div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-window cc-floating cc-type-info cc-theme-classic cc-bottom cc-right cc-color-override--204364354 cc-invisible" style=""><!--googleoff: all--><span id="cookieconsent:desc" class="cc-message">Ten serwis wykorzystuje pliki cookies.</span><div class="cc-compliance"><a aria-label="dismiss cookie message" role="button" tabindex="0" class="cc-btn cc-dismiss">Zamknij</a></div><!--googleon: all--></div>
+<div class="container">
+    <div class="nav">
+        
+    
+    <nav class="navbar-m navbar navbar-inverse">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="/">Project Helper</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-left">
+                    
+    <li>
+        <a class="nav-link" href="/students/profile/">PROFILE</a>
+    </li>
+    <li>
+        <a class="nav-link" href="/students/ZPR/projects/">PROJECTS</a>
+    </li>
+    <li>
+        <a class="nav-link" href="/students/ZPR/teams/">TEAMS</a>
+    </li>
+
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    
+    
+                    
+                    <li>
+                        <a class="nav-link" href="/select_course/">Change course</a>
+                    </li>
+                    
+                    <li>
+                        <a class="nav-link" href="/about/">Help</a>
+                    </li>
+                    <li class="dropdown">
+                      
+                      
+                      
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                      English <span class="caret"></span></a>
+
+                      <ul class="dropdown-menu">
+                        
+                        
+                        
+                        
+                        <li>
+                            <form name="setLangpl" action="/i18n/setlang/" method="POST">
+                                <input type="hidden" name="csrfmiddlewaretoken" value="14KjgNarMhFRvqHAXLDEFRWSNhwb24pnaNMXDU5d1DewXOyCsbYtMwdsC1FRe88j">
+                                <input type="hidden" name="language" value="pl">
+                            </form>
+                            <a href="#" onclick="document.setLangpl.submit();return false;">
+                                Polski
+                            </a>
+                        </li>
+                        
+                        
+                      </ul>
+                    </li><!-- /.dropdown -->
+                    
+                    <li>
+                        <a class="nav-link" href="/logout/">Logout</a>
+                    </li>
+                    
+                    
+
+                </ul>
+            </div><!-- /.navbar-collapse -->
+            
+    <span class="label label-default">Zaawansowane programowanie w C++</span>
+
+        </div><!-- /.container-fluid -->
+    </nav>
+
+
+    </div>
+    <div class="content">
+        
+
+
+
+<div class="panel panel-default">
+    <div class="panel-heading ">
+    
+<div class="row">
+    <div class="col-sm-1 col-xs-1">
+        <a href="/students/ZPR/teams/" title="Back to team list" class="btn btn-default">
+            <span class="glyphicon glyphicon-chevron-left"></span> Back
+        </a>
+    </div>
+    <div class="col-sm-6 col-xs-6">
+        <h3 class="panel-title" style="padding-top: 8px">Project details</h3>
+    </div>
+</div>
+
+    </div>
+
+    
+    
+
+
+
+
+
+
+<div class="panel-body">
+    <div>
+        Paweł Zawistowski,
+        email: <a href="mailto:P.Zawistowski.2@elka.pw.edu.pl">P.Zawistowski.2@elka.pw.edu.pl</a>
+    </div>
+    <div>
+        <h4>Description</h4>
+        <p>Są osoby, które wchodzą na naszą stronę i nie mogą się zdecydować który produkt obejrzeć. Może dało by się im coś polecić? </p>
+<p>Dane są na serwerze studia - w pliku odpowiadającemu numerowi zadania. </p>
+    </div>
+
+    <div>
+        <h4>Project files [ Limit  files,  MB each] :</h4>
+
+        <div>
+            <input type="file" name="fileToUpload" id="fileToUpload" project_id="464">
+        </div>
+
+        <table class="table table-hover" project_id="464">
+            
+        </table>
+    </div>
+
+    <h4>Team assigned:</h4>
+    
+        None
+    
+
+    <h4>Teams preferring this project:</h4>
+    
+        None
+    
+
+</div>
+
+
+ 
+     <script src="/static/jquery/jquery.min.js"></script>
+     <script src="/static/js/projectdropdown.js"></script>
+ 
+
+
+
+    <div class="panel-footer">
+    
+    
+    </div>
+</div>
+
+    </div>
+</div> <!-- /container -->
+
+
+<!-- Le javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+
+    <script src="/static/jquery/jquery.min.js"></script>
+    <script src="/static/bootstrap/js/bootstrap.min.js"></script>
+    
+    
+
+
+
+</body></html>
